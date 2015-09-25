@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Fran Martínez"
+author: "Fran Mart??nez"
 date: "25 September 2015"
 output: html_document
 ---
@@ -17,10 +17,3 @@ The goal of this work is to clean the data and present a nice, abreviated output
 * **axis** X,Y or Z.
 * **mean** is were we display the mean value of a magnitude for the given set of variables mentioned before.
 
-Here we display a few lines of the table itself.
-
-
-```{r  echo = FALSE, message=FALSE}
-source("~/Documents/R/UCI HAR Dataset/test/run_analysis.R")
-df2[7:12,]
-```
