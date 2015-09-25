@@ -1,7 +1,5 @@
----
-title: "CodeBook"
-output: html_document
----
+#CodeBook
+
 ## Introduction
 This document explains the code inside `run_analysis.R` 
 
